@@ -1,14 +1,5 @@
 # IC 4040 - Galaxy Reduction
 
-This template repository is meant to provide some guidance in reducing space telescope galaxy data
-using Python Jupyter Notebooks. The repository is not meant to be a one-size-fits-all set of
-notebooks as each galaxy and dataset is unique. Rather, the goal of this project is to provide a
-set of useful defaults for image reduction as well as pointers to documentation of oft-changed
-parameters.
-
-To date, this repository only supports the *Hubble Space Telescope* (*HST*), but the hope is to add
-support for the *James Webb Space Telescope* (*JWST*) in the future.
-
 ## Pipeline
 
 ### Python Research Environment
