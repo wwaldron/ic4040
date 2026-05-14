@@ -1,8 +1,6 @@
 # IC 4040 - Galaxy Reduction
 
-## Pipeline
-
-### Python Research Environment
+## Python Research Environment
 
 Although you may utilize any Python package/environment manager, this pipeline assumes the utility
 of the [conda](https://conda.io/) manager. If you are not familiar with this tool, you will want
@@ -21,7 +19,7 @@ $ conda install jupyterlab nb_conda_kernels
 
 which will ensure the environments below are visible in Jupyter.
 
-### Prerequisites
+## Prerequisites
 
 Begin by copying this template to your local GitHub account. I recommend making the new repository
 name descriptive of the galaxy data you hope to reduce (*e.g.*,
@@ -67,7 +65,7 @@ export nref="${CRDS_PATH}/references/hst/nref/"
 export uref="${CRDS_PATH}/references/hst/uref/"
 ```
 
-### Configure Notebooks
+## Configure Notebooks
 
 Each of the notebooks in this repository have a number of variables that will be programmatically
 replaced using the [configuration script](configure.py). Failing to run this script before utilizing
@@ -91,7 +89,7 @@ $ ./configure "ESO 137-001" -a "Will Waldron" -i "UAH"
 Please note the use of quotation marks in the previous command as is necessary if there is
 whitespace you want preserved.
 
-### Workflow Steps
+## Workflow Steps
 
 Now, you may work through the following files using their hyperlinks or by
 navigating to the [Notebooks](Notebooks) directory (which just contains a list
