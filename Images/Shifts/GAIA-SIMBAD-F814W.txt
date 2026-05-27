@@ -1,0 +1,16 @@
+# frame: output
+# refimage: GAIA-SIMBAD-F814W.fits[wcs]
+# form: delta
+# units: pixels
+/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/visit03_parallel/ifhs03qhq_crclean_flc.fits    nan  nan    nan     nan   0.000000  0.000000
+/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/visit03_parallel/ifhs03qmq_crclean_flc.fits    nan  nan    nan     nan   0.000000  0.000000
+/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/visit06_parallel/ifhs06gvq_crclean_flc.fits    nan  nan    nan     nan   0.000000  0.000000
+/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/visit06_parallel/ifhs06gzq_crclean_flc.fits    nan  nan    nan     nan   0.000000  0.000000
+/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/visit02_parallel/ifhs02ysq_crclean_flc.fits    nan  nan    nan     nan   0.000000  0.000000
+/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/visit02_parallel/ifhs02yoq_crclean_flc.fits    nan  nan    nan     nan   0.000000  0.000000
+/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/visit07_parallel/ifhs07e6q_crclean_flc.fits    nan  nan    nan     nan   0.000000  0.000000
+/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/visit07_parallel/ifhs07eaq_crclean_flc.fits    nan  nan    nan     nan   0.000000  0.000000
+/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/visit05_parallel/ifhs05cdq_crclean_flc.fits    nan  nan    nan     nan   0.000000  0.000000
+/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/visit05_parallel/ifhs05c8q_crclean_flc.fits    -0.369267  -2.090250    359.984209     0.999724   0.902957  0.564932
+/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/visit04_parallel/ifhs04vmq_crclean_flc.fits    nan  nan    nan     nan   0.000000  0.000000
+/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/visit04_parallel/ifhs04vqq_crclean_flc.fits    nan  nan    nan     nan   0.000000  0.000000
