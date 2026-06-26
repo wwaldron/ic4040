@@ -1,0 +1,5 @@
+# frame: output
+# refimage: GAIA-Main-F814W.fits[wcs]
+# form: delta
+# units: pixels
+/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/visit06_parallel/ifhs06gvq_crclean_flc.fits    -0.432985  -2.018527    0.021850     0.999593   0.789618  1.243060

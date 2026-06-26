@@ -1,0 +1,16 @@
+# frame: output
+# refimage: GAIA-F475W.fits[wcs]
+# form: delta
+# units: pixels
+/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/visit03_parallel/ifhs03qnq_crclean_flc.fits    -0.928479  0.677985    359.997059     1.000051   0.459246  0.540353
+/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/visit03_parallel/ifhs03qiq_crclean_flc.fits    -1.051914  0.757081    359.992734     1.000075   0.439408  0.417424
+/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/visit06_parallel/ifhs06gwq_crclean_flc.fits    0.202903  -0.383092    0.003375     0.999937   0.472862  0.402699
+/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/visit06_parallel/ifhs06h0q_crclean_flc.fits    0.633443  -0.180113    0.000965     1.000044   0.474016  0.440304
+/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/visit02_parallel/ifhs02ytq_crclean_flc.fits    1.203480  -1.565951    359.998421     0.999944   0.475247  0.511763
+/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/visit02_parallel/ifhs02ypq_crclean_flc.fits    0.837458  -0.847413    0.003439     0.999907   0.439338  0.452931
+/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/visit07_parallel/ifhs07e7q_crclean_flc.fits    0.251993  1.236353    0.002215     0.999898   0.484412  0.431946
+/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/visit07_parallel/ifhs07ebq_crclean_flc.fits    0.282943  0.494738    359.999329     0.999916   0.553050  0.487878
+/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/visit05_parallel/ifhs05c9q_crclean_flc.fits    -0.105956  -0.245983    0.000065     0.999993   0.469551  0.453887
+/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/visit05_parallel/ifhs05ceq_crclean_flc.fits    0.002099  -0.480600    0.003393     0.999892   0.404724  0.422496
+/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/visit04_parallel/ifhs04vnq_crclean_flc.fits    0.843307  -0.461297    359.999369     0.999978   0.516733  0.434036
+/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/visit04_parallel/ifhs04vrq_crclean_flc.fits    5.391560  -0.644853    359.995547     0.999996   0.493799  0.449830

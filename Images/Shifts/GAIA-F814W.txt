@@ -1,0 +1,15 @@
+# frame: output
+# refimage: GAIA-F814W.fits[wcs]
+# form: delta
+# units: pixels
+/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/visit03_parallel/ifhs03qhq_crclean_flc.fits    0.205178  -0.392983    0.000229     0.999964   0.499028  0.528012
+/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/visit03_parallel/ifhs03qmq_crclean_flc.fits    0.693640  -1.079760    0.004349     0.999927   0.483833  0.458634
+/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/visit06_parallel/ifhs06gzq_crclean_flc.fits    -0.159027  -0.307144    0.003386     0.999965   0.461470  0.483188
+/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/visit02_parallel/ifhs02ysq_crclean_flc.fits    0.025174  -0.219643    359.996442     0.999896   0.419866  0.463158
+/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/visit02_parallel/ifhs02yoq_crclean_flc.fits    0.873662  -0.124693    0.001806     0.999990   0.498158  0.428060
+/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/visit07_parallel/ifhs07e6q_crclean_flc.fits    0.812049  -0.237252    0.003204     0.999917   0.490734  0.440686
+/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/visit07_parallel/ifhs07eaq_crclean_flc.fits    -0.722491  -0.198523    0.003180     0.999957   0.436548  0.449918
+/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/visit05_parallel/ifhs05cdq_crclean_flc.fits    0.077068  -0.464953    0.004685     0.999976   0.463379  0.462807
+/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/visit05_parallel/ifhs05c8q_crclean_flc.fits    0.302446  -0.331208    0.005644     0.999964   0.476425  0.433772
+/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/visit04_parallel/ifhs04vmq_crclean_flc.fits    0.471509  -0.523665    359.999544     0.999915   0.402555  0.490265
+/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/visit04_parallel/ifhs04vqq_crclean_flc.fits    -0.178378  -0.100147    0.003341     0.999972   0.535690  0.490392
