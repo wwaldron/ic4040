@@ -2,14 +2,14 @@
 # refimage: GAIA-F814W.fits[wcs]
 # form: delta
 # units: pixels
-/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/visit03_parallel/ifhs03qhq_crclean_flc.fits    -0.424573  -1.103482    359.993959     0.999883   0.504000  0.437253
-/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/visit03_parallel/ifhs03qmq_crclean_flc.fits    -0.252862  -1.273382    0.000938     0.999885   0.466139  0.435327
-/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/visit06_parallel/ifhs06gzq_crclean_flc.fits    -0.299823  -1.096243    359.998990     0.999935   0.459567  0.492282
-/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/visit02_parallel/ifhs02ysq_crclean_flc.fits    -0.145232  -0.971694    359.997463     0.999940   0.519745  0.491641
-/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/visit02_parallel/ifhs02yoq_crclean_flc.fits    0.634690  -0.414949    359.999495     0.999922   0.499259  0.437777
-/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/visit07_parallel/ifhs07e6q_crclean_flc.fits    0.413161  -1.058082    359.997090     0.999925   0.489673  0.445511
-/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/visit07_parallel/ifhs07eaq_crclean_flc.fits    0.061467  -1.181338    359.994674     0.999965   0.473792  0.403239
-/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/visit05_parallel/ifhs05cdq_crclean_flc.fits    -0.270570  -1.153633    359.997540     0.999971   0.452685  0.538891
-/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/visit05_parallel/ifhs05c8q_crclean_flc.fits    -0.276309  -1.313649    0.000459     1.000035   0.461141  0.435460
-/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/visit04_parallel/ifhs04vmq_crclean_flc.fits    0.013597  -1.084583    359.989031     0.999961   0.418425  0.528366
-/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/visit04_parallel/ifhs04vqq_crclean_flc.fits    -0.352422  -1.525863    359.995752     1.000012   0.457707  0.502314
+/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/Parallel/visit03_parallel/ifhs03qhq_crclean_flc.fits    -0.424573  -1.103482    359.993959     0.999883   0.504000  0.437253
+/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/Parallel/visit03_parallel/ifhs03qmq_crclean_flc.fits    -0.252862  -1.273382    0.000938     0.999885   0.466139  0.435327
+/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/Parallel/visit06_parallel/ifhs06gzq_crclean_flc.fits    -0.299823  -1.096243    359.998990     0.999935   0.459567  0.492282
+/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/Parallel/visit02_parallel/ifhs02ysq_crclean_flc.fits    -0.145232  -0.971694    359.997463     0.999940   0.519745  0.491641
+/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/Parallel/visit02_parallel/ifhs02yoq_crclean_flc.fits    0.634690  -0.414949    359.999495     0.999922   0.499259  0.437777
+/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/Parallel/visit07_parallel/ifhs07e6q_crclean_flc.fits    0.413161  -1.058082    359.997090     0.999925   0.489673  0.445511
+/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/Parallel/visit07_parallel/ifhs07eaq_crclean_flc.fits    0.061467  -1.181338    359.994674     0.999965   0.473792  0.403239
+/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/Parallel/visit05_parallel/ifhs05cdq_crclean_flc.fits    -0.270570  -1.153633    359.997540     0.999971   0.452685  0.538891
+/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/Parallel/visit05_parallel/ifhs05c8q_crclean_flc.fits    -0.276309  -1.313649    0.000459     1.000035   0.461141  0.435460
+/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/Parallel/visit04_parallel/ifhs04vmq_crclean_flc.fits    0.013597  -1.084583    359.989031     0.999961   0.418425  0.528366
+/data/wwaldron/Research/Galaxies/IC/ic4040/Images/RawImages/wfc3/Parallel/visit04_parallel/ifhs04vqq_crclean_flc.fits    -0.352422  -1.525863    359.995752     1.000012   0.457707  0.502314
